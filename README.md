@@ -25,7 +25,7 @@
 
 **`X5S-Control-Deck-3.0-release.apk`** (1.6 MB)
 
-SHA-256: `d0f29f17e39f52c5e7b9e136688c33631ed52aebb7700394548f2aaa442f4ec4`
+SHA-256: `fc1612a4cbd6311447d247643cd67da566dc08800ec48841e3d0dc8fa25d8995`
 
 Check the file before installing:
 
