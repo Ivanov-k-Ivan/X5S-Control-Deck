@@ -8,7 +8,7 @@
 
 <p align="center"><strong>A free, standalone settings app for the GameSir X5s controller on Android.</strong></p>
 
-<p align="center">GameSir only lets you change controller settings through its own companion app, which needs an account, a network connection and the vendor's servers. X5S Control Deck does the same job on its own: it connects to the pad directly over Bluetooth LE and gives you every setting the hardware exposes — dead zones, stick mode, triggers, vibration, lighting and more. No account, no telemetry, no vendor app.</p>
+<p align="center">X5S Control Deck is a standalone settings app for the GameSir X5s. It connects to the pad directly over Bluetooth LE and gives you every setting the hardware exposes — dead zones, stick mode, triggers, vibration, lighting and more. No account, no telemetry, no vendor app.</p>
 
 <p align="center">
   <a href="X5S-Control-Deck-3.0-release.apk"><img src="https://img.shields.io/badge/download-APK%203.0-black?logo=android" alt="Download APK"></a>
