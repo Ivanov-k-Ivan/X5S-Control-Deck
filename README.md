@@ -126,7 +126,7 @@ X5S Control Deck is **free to use, copy, modify, and share** for personal and ot
 
 The only conditions:
 
-- **Credit the author.** If you share X5S Control Deck or a modified version, mention **Ivan Ivanov** and link back to [the project repository](https://github.com/Ivanov-k-Ivan/gamesirX5S).
+- **Credit the author.** If you share X5S Control Deck or a modified version, mention **Ivan Ivanov** and link back to [the project repository](https://github.com/Ivanov-k-Ivan/X5S-Control-Deck).
 - **No commercial use.** You may not sell X5S Control Deck, bundle it into a paid product, or otherwise use it to make money.
 
-See [LICENSE](https://github.com/Ivanov-k-Ivan/gamesirX5S/blob/main/LICENSE) for the full terms.
+See [LICENSE](https://github.com/Ivanov-k-Ivan/X5S-Control-Deck/blob/main/LICENSE) for the full terms.
