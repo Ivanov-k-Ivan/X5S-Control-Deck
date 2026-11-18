@@ -25,7 +25,7 @@
 
 **`X5S-Control-Deck-2.0-release.apk`** (1.6 MB)
 
-SHA-256: `bfba962e8bb19282a8586549169b7467d6bd2d4093e4f835762f746dcebd66d4`
+SHA-256: `3d6f2d32a6b7151d39e54d9cc6011286c5ecb81948d924c28ad72a217e40a90a`
 
 Check the file before installing:
 
