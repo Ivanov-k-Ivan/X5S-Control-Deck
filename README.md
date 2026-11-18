@@ -15,13 +15,17 @@
   <img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+">
 </p>
 
+<p align="center">
+  <img src="screenshot-sticks.png" alt="X5S Control Deck — STICKS screen with live dead-zone visualisers" width="100%">
+</p>
+
 ---
 
 ## Download
 
 **`X5S-Control-Deck-2.0-release.apk`** (1.6 MB)
 
-SHA-256: `93a3f55788ba13a6f60c55eeac5ed65eba8774319eb42d509d1c8f8e87b9ac97`
+SHA-256: `bfba962e8bb19282a8586549169b7467d6bd2d4093e4f835762f746dcebd66d4`
 
 Check the file before installing:
 
