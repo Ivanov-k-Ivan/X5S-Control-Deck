@@ -11,7 +11,7 @@
 <p align="center">GameSir only lets you change controller settings through its own companion app, which needs an account, a network connection and the vendor's servers. X5S Control Deck does the same job on its own: it connects to the pad directly over Bluetooth LE and gives you every setting the hardware exposes — dead zones, stick mode, triggers, vibration, lighting and more. No account, no telemetry, no vendor app.</p>
 
 <p align="center">
-  <a href="X5S-Control-Deck-2.0-release.apk"><img src="https://img.shields.io/badge/download-APK%202.0-black?logo=android" alt="Download APK"></a>
+  <a href="X5S-Control-Deck-3.0-release.apk"><img src="https://img.shields.io/badge/download-APK%203.0-black?logo=android" alt="Download APK"></a>
   <img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+">
 </p>
 
@@ -23,14 +23,14 @@
 
 ## Download
 
-**`X5S-Control-Deck-2.0-release.apk`** (1.6 MB)
+**`X5S-Control-Deck-3.0-release.apk`** (1.6 MB)
 
-SHA-256: `cf8b041ab2fd577065c41f081693165d6361a94b6f80359f994251477f5b9577`
+SHA-256: `d0f29f17e39f52c5e7b9e136688c33631ed52aebb7700394548f2aaa442f4ec4`
 
 Check the file before installing:
 
 ```sh
-sha256sum X5S-Control-Deck-2.0-release.apk
+sha256sum X5S-Control-Deck-3.0-release.apk
 ```
 
 **Requirements:** Android 12 or later with Bluetooth LE, and a GameSir X5s controller. No root, no account.
@@ -83,7 +83,7 @@ The app ships the controller's manual notes so you don't need the web, a PDF or 
 
 ## Install
 
-1. Copy `X5S-Control-Deck-2.0-release.apk` to the tablet or phone and open it.
+1. Copy `X5S-Control-Deck-3.0-release.apk` to the tablet or phone and open it.
 2. Allow **Nearby devices** when Android asks (the app needs Bluetooth scan/connect).
 3. Close the GameSir app if it's running, open **X5S Control Deck** and tap **CONNECT**.
 
